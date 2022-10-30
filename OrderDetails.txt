@@ -1,0 +1,7 @@
+hi
+123 123 1234
+abc str
+Normal
+Small
+Thin
+17.0
